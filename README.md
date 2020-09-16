@@ -14,8 +14,8 @@ For `conda` users: `~/tvi.yml`
 
 ## File Organization and Running Code
 
-To generate results for all programmatic questions, please run `main.py`. 
-`main.py` displays the extracted metadata for TQ1 and the segmentation metric in TQ2 to `stdout`. 
+To generate results for all programmatic questions, please run `main.py`.   
+`main.py` displays the extracted metadata for TQ1 and the segmentation metric in TQ2 to `stdout`.  
 A copy of sample output is provided in `~/output/stdout.txt`.
 
 `main.py` utilizes several modular functions contained within the `tvi_knesis` package.
